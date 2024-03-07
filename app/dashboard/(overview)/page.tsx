@@ -11,8 +11,8 @@ import {
 } from '@/app/ui/skeletons';
 import { Metadata } from 'next';
 
-export const medatada: Metadata = {
-    title: 'awdawd',
+export const metadata: Metadata = {
+    title: 'Home',
 };
 
 export default async function Page() {
