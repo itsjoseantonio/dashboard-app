@@ -9,6 +9,11 @@ import {
     RevenueChartSkeleton,
     CardsSkeleton,
 } from '@/app/ui/skeletons';
+import { Metadata } from 'next';
+
+export const medatada: Metadata = {
+    title: 'awdawd',
+};
 
 export default async function Page() {
     return (
